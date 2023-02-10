@@ -4,6 +4,7 @@ package com.yrgo.isbntools;
 //Ett litet test nr 2
 //Main test
 //Main test2
+//Mail test3
 public class Book {
 	private String isbn;
 	private String title;
