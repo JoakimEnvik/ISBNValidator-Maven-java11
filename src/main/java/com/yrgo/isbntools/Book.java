@@ -3,6 +3,7 @@ package com.yrgo.isbntools;
 //Ett litet test
 //Ett litet test nr 2
 //Main test
+//Main test2
 public class Book {
 	private String isbn;
 	private String title;
